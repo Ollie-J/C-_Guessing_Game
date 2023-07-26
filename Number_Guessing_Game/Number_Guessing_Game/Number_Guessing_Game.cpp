@@ -33,7 +33,7 @@ int main()
         }
         else
         {
-            cout << "\nCorrect! You guessed the right number in " << tries << "guesses\n";
+            cout << "\nCorrect! You guessed the right number in " << tries  << "guesses\n";
         }
         
 
